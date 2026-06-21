@@ -36,5 +36,3 @@ I am a **Software Engineer** focused on **Backend Development**. My objective is
   </a>
 </p>
 
----
-*⭐️ From [Tên của bạn] with ❤️*

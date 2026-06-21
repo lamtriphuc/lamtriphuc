@@ -15,7 +15,6 @@ I am a **Software Engineer** focused on **Backend Development**. My objective is
 </p>
 
 **Databases & Message Brokers**
-*Note: Proficient in SQL Server as well.*
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq&theme=dark" />

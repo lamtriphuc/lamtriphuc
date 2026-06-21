@@ -35,4 +35,3 @@ I am a **Software Engineer** focused on **Backend Development**. My objective is
     <img src="https://skillicons.dev/icons?i=postman,github,docker&theme=dark" />
   </a>
 </p>
-
